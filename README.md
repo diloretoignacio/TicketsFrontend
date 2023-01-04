@@ -18,3 +18,15 @@ Las acciones que se pueden realizar sobre un ticket son:
 * Agregar Comentario
 
 Cada agente posee un su menu de inicio un Dashboard, en el cual se le indica los tickets pendientes a resolver y su respectiva prioridad
+
+## Ejecutar el proyecto
+
+Para poder ejecutar el pryecto se debe instalar **vite**
+```
+npm install
+```
+Y luego ejecutar
+```
+npm run dev
+```
+El sistema crea un servidor local en el cual se puede probar el sistema
