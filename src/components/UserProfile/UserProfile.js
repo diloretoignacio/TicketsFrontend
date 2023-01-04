@@ -13,6 +13,6 @@ export const UserProfile = () => {
             </div>
             <button id="btnAvatar"><img src="https://joeschmoe.io/api/v1/random" alt="userPick" title="userPick"/>	</button>
         `;
-
+//Si joeschmoe no se encuentra funcionando se puede utilizar https://pic.onlinewebfonts.com/svg/img_569204.png
     return useUserProfile(view);
 };
